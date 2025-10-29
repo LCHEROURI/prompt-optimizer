@@ -1,0 +1,5 @@
+{
+  "name": "Lyra Multimodal Prompt Optimizer",
+  "description": "A multimodal AI prompt optimization agent that transforms any user input — text, image, document, or audio/video — into precision-engineered prompts ready for high-performance AI models.",
+  "requestFramePermissions": []
+}
